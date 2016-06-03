@@ -1,10 +1,10 @@
-<!--/*!
+/*!
  * Author: Marvin Aya-ay
  * Email: marvz73@gmail.com
  * Copyright 2015-2016 Blog Cards
  * MIT License (https://github.com/marvz73/blogcards/blob/master/LICENSE)
  */
--->
+
 
 $(function(){
 
